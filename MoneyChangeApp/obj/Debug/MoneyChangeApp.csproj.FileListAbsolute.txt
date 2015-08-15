@@ -16,3 +16,21 @@ C:\Users\Zach\Documents\Visual Studio 2013\Projects\Currensea\Currensea\obj\Debu
 C:\Users\Zach\Documents\Visual Studio 2013\Projects\MoneyExchangeApp\Currensea\bin\Debug\MoneyChangeApp.exe.config
 C:\Users\Zach\Documents\Visual Studio 2013\Projects\MoneyExchangeApp\Currensea\obj\Debug\MoneyChangeApp.exe
 C:\Users\Zach\Documents\Visual Studio 2013\Projects\MoneyExchangeApp\Currensea\obj\Debug\MoneyChangeApp.pdb
+C:\Users\Zach\Documents\GitHub\MoneyExchangeApp\Currensea\bin\Debug\MoneyChangeApp.exe.config
+C:\Users\Zach\Documents\GitHub\MoneyExchangeApp\Currensea\obj\Debug\MoneyChangeApp.exe
+C:\Users\Zach\Documents\GitHub\MoneyExchangeApp\Currensea\obj\Debug\MoneyChangeApp.pdb
+C:\Users\Zach\Documents\GitHub\MoneyExchangeApp\MoneyChangeApp\bin\Debug\MoneyChangeApp.exe.config
+C:\Users\Zach\Documents\GitHub\MoneyExchangeApp\MoneyChangeApp\obj\Debug\MoneyChangeApp.exe
+C:\Users\Zach\Documents\GitHub\MoneyExchangeApp\MoneyChangeApp\obj\Debug\MoneyChangeApp.pdb
+C:\Users\Zach\Documents\GitHub\MoneyExchangeApp\MoneyChangeApp\bin\Debug\MoneyChangeApp.exe
+C:\Users\Zach\Documents\GitHub\MoneyExchangeApp\MoneyChangeApp\bin\Debug\MoneyChangeApp.pdb
+C:\Users\Zach\Documents\GitHub\MoneyExchangeApp\MoneyChangeApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zach\Documents\GitHub\MoneyExchangeApp\MoneyChangeApp\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Zach\Documents\GitHub\MoneyExchangeApp\MoneyChangeApp\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Zach\Documents\GitHub\MoneyExchangeApp\MoneyChangeApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zach\Documents\GitHub\MoneyExchangeApp\MoneyChangeApp\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Zach\Documents\GitHub\MoneyExchangeApp\MoneyChangeApp\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Zach\Documents\GitHub\MoneyExchangeApp\MoneyChangeApp\obj\Debug\MoneyChangeApp.csprojResolveAssemblyReference.cache
+C:\Users\Zach\Documents\GitHub\MoneyExchangeApp\MoneyChangeApp\obj\Debug\MoneyApiApp.Form1.resources
+C:\Users\Zach\Documents\GitHub\MoneyExchangeApp\MoneyChangeApp\obj\Debug\MoneyApiApp.Properties.Resources.resources
+C:\Users\Zach\Documents\GitHub\MoneyExchangeApp\MoneyChangeApp\obj\Debug\MoneyChangeApp.csproj.GenerateResource.Cache

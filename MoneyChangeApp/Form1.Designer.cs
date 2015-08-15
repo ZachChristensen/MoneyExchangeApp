@@ -258,7 +258,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form1";
-            this.Text = "Mani";
+            this.Text = "Money Exchange Application";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2up)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1up)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1down)).EndInit();
